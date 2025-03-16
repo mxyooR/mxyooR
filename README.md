@@ -17,22 +17,27 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxyooR&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxyooR&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxyooR&layout=compact&theme=radical)
 
-## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxyooR&layout=compact&theme=radical)
 
-## 🌐 My Website
 
-<div align="center">
-  <a href="https://mxyoor.top">
-    <img src="https://img.shields.io/badge/点击进入我的网站-9cf?style=for-the-badge&logo=octocat&logoColor=white&labelColor=6a57d2&color=ff79c6"/>
+
+## 🌐 Personal Website
+
+<div >
+  <a href="https://mxyoor.top" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Website-Explore_Now-2D87D0?style=for-the-badge&logo=globe&logoColor=white&labelColor=1A73E8&color=ffffff&labelWidth=15px&link=https://mxyoor.top" 
+         style="border-radius: 8px; margin: 5px; transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'">
     <br>
-    <img src="https://mxyoor.top/profile.webp"  width="240px" style="border-radius:50%;box-shadow: 0 0 20px #6a57d2;">
+    <img src="https://mxyoor.top/profile.webp" 
+         alt="Website Preview" 
+         width="120" 
+         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(26, 115, 232, 0.2); margin-top: 10px; border: 2px solid #e8f4ff;">
   </a>
 </div>
-
 
 
 ## 📈 GitHub Activity Graph
