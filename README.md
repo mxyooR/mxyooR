@@ -32,10 +32,7 @@ Here are some ideas to get you started:
          onmouseover="this.style.transform='scale(1.05)'" 
          onmouseout="this.style.transform='scale(1)'">
     <br>
-    <img src="https://mxyoor.top/profile.webp" 
-         alt="Website Preview" 
-         width="120" 
-         style="border-radius: 16px; box-shadow: 0 4px 12px rgba(26, 115, 232, 0.2); margin-top: 10px; border: 2px solid #e8f4ff;">
+
   </a>
 </div>
 
