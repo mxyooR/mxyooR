@@ -23,13 +23,21 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxyooR&layout=compact&theme=radical)
 
-## 🌐 Personal Website
+## 🌐 My Website
 
-[Visit my website](https://mxyoor.top)
+<div align="center">
+  <a href="https://mxyoor.top">
+    <img src="https://img.shields.io/badge/点击进入我的网站-9cf?style=for-the-badge&logo=octocat&logoColor=white&labelColor=6a57d2&color=ff79c6"/>
+    <br>
+    <img src="https://mxyoor.top/profile.webp"  width="240px" style="border-radius:50%;box-shadow: 0 0 20px #6a57d2;">
+  </a>
+</div>
+
+
 
 ## 📈 GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mxyooR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxyooR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧙‍♂️ Cultivation Record Card
 
