@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🌐 Personal Website
 
 <div >
-  <a href="https://mxyoor.top" style="text-decoration: none">
+  <a href="http://mxyoor.top" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Website-Explore_Now-2D87D0?style=for-the-badge&logo=globe&logoColor=white&labelColor=1A73E8&color=ffffff&labelWidth=15px&link=https://mxyoor.top" 
          style="border-radius: 8px; margin: 5px; transition: transform 0.3s ease;" 
          onmouseover="this.style.transform='scale(1.05)'" 
